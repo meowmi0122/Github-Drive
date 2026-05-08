@@ -1,0 +1,9 @@
+name = "github-drive"
+compatibility_date = "2024-09-01"
+pages_build_output_dir = "dist"
+
+# Set these in Cloudflare Dashboard -> Pages -> Settings -> Environment variables (and Secrets):
+#   API           = <your GitHub Personal Access Token with repo scope>
+#   GH_REPO       = meowmi0122/Github-Drive-Storage
+#   GH_BRANCH     = main
+#   JWT_SECRET    = <random long string>
